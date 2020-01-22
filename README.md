@@ -9,6 +9,6 @@
 
 - 基于python的专题实现:
     + 查找
-    + [排序]()(10种排序算法)
+    + [排序](https://github.com/zhulf0804/Coding.Python/tree/master/sort)(10种排序算法)
     + 背包
     + 线段树
