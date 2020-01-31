@@ -10,5 +10,5 @@
 - 基于python的专题实现:
     + 查找
     + [排序](https://github.com/zhulf0804/Coding.Python/tree/master/sort)(10种排序算法)
-    + 背包
+    + [背包]() (0-1背包, 完全背包, 多重背包，分组背包等)
     + 线段树
