@@ -1,4 +1,3 @@
-# https://www.hackerrank.com/contests/2020-deepglint/challenges/challenge-2406
 import math
 
 
