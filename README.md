@@ -3,8 +3,8 @@
 本库记录我基于python写过的开源程序。
 
 - 基于python实现的OJ上的一些题目汇总。
-    + [codeforces]() (`107题`)
-    + [leetcode]() (`207题`)
+    + [codeforces]() (`112题`)
+    + [leetcode]() (`208题`)
     + [计蒜客]() (`8题`)
     + [hackerrank]() (`5题`)
 
