@@ -4,8 +4,8 @@
 
 - 基于python实现的OJ上的一些题目汇总。
     + [codeforces](http://codeforces.com/problemset/) ([`195题`](https://github.com/zhulf0804/Coding.Python/tree/master/codeforces))
-    + [leetcode](https://leetcode-cn.com/problemset/all/) ([`230题`](https://github.com/zhulf0804/Coding.Python/tree/master/leetcode))
-    + [剑指offer](https://leetcode-cn.com/problemset/lcof/) ([`1/68题`](https://github.com/zhulf0804/Coding.Python/tree/master/剑指offer))
+    + [leetcode](https://leetcode-cn.com/problemset/all/) ([`238题`](https://github.com/zhulf0804/Coding.Python/tree/master/leetcode))
+    + [剑指offer](https://leetcode-cn.com/problemset/lcof/) ([`61/75题`](https://github.com/zhulf0804/Coding.Python/tree/master/剑指offer))
     + [程序员面试金典](https://leetcode-cn.com/problemset/lcci/) ([`3/109题`](https://github.com/zhulf0804/Coding.Python/tree/master/程序员面试金典))
     + [计蒜客](https://nanti.jisuanke.com/oi) ([`8题`](https://github.com/zhulf0804/Coding.Python/tree/master/%E8%AE%A1%E8%92%9C%E5%AE%A2))
     + [hackerrank](https://www.hackerrank.com/contests) ([`5题`](https://github.com/zhulf0804/Coding.Python/tree/master/hackerrank))
